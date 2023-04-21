@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@linuxamada 
-progedu
-/
-assessment-for-download
-Public
-Fork your own copy of progedu/assessment-for-download
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-assessment-for-download/assessment.js /
-@sifue
-sifue First commit
-Latest commit 0bb6344 on Feb 16, 2018
- History
- 1 contributor
-102 lines (90 sloc)  5.15 KB
- 
-
 (function () {
   'use strict';
   const userNameInput = document.getElementById('user-name');
@@ -131,18 +100,3 @@ Latest commit 0bb6344 on Feb 16, 2018
       '入力が同じ名前なら同じ診断結果を出力する処理が正しくありません。'
   );
 })();
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-assessment-for-download/assessment.js at master · progedu/assessment-for-download
